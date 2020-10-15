@@ -1,0 +1,10 @@
+C:\Users\b\Desktop\ASAPApp\bin\Debug\ASAPApp.exe.config
+C:\Users\b\Desktop\ASAPApp\bin\Debug\ASAPApp.exe
+C:\Users\b\Desktop\ASAPApp\bin\Debug\ASAPApp.pdb
+C:\Users\b\Desktop\ASAPApp\obj\Debug\ASAPApp.csprojAssemblyReference.cache
+C:\Users\b\Desktop\ASAPApp\obj\Debug\ASAPApp.Form1.resources
+C:\Users\b\Desktop\ASAPApp\obj\Debug\ASAPApp.Properties.Resources.resources
+C:\Users\b\Desktop\ASAPApp\obj\Debug\ASAPApp.csproj.GenerateResource.cache
+C:\Users\b\Desktop\ASAPApp\obj\Debug\ASAPApp.csproj.CoreCompileInputs.cache
+C:\Users\b\Desktop\ASAPApp\obj\Debug\ASAPApp.exe
+C:\Users\b\Desktop\ASAPApp\obj\Debug\ASAPApp.pdb
